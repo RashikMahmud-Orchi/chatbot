@@ -1,0 +1,6 @@
+Flask
+gunicorn
+Pillow
+google-generativeai
+python-dotenv
+google-cloud-vision
